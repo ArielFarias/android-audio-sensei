@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidAudioSensei.iml" filepath="$PROJECT_DIR$/AndroidAudioSensei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-audio-sensei.iml" filepath="$PROJECT_DIR$/android-audio-sensei.iml" group="android-audio-sensei" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-audio-sensei-app.iml" filepath="$PROJECT_DIR$/app/android-audio-sensei-app.iml" group="android-audio-sensei/app" />
+      <module fileurl="file://$PROJECT_DIR$/audiosensei/android-audio-sensei-audiosensei.iml" filepath="$PROJECT_DIR$/audiosensei/android-audio-sensei-audiosensei.iml" group="android-audio-sensei/audiosensei" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/audiosensei/audiosensei.iml" filepath="$PROJECT_DIR$/audiosensei/audiosensei.iml" />
     </modules>
