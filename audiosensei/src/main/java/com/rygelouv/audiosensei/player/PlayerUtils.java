@@ -23,7 +23,7 @@ public class PlayerUtils
 {
     public static String getDurationFormated(int durationn)
     {
-        return String.format("%d:%d teste",
+        return String.format("Duração %d:%d",
                 TimeUnit.MILLISECONDS.toMinutes((long) durationn),
                 TimeUnit.MILLISECONDS.toSeconds((long) durationn) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes((long) durationn)));
     }
